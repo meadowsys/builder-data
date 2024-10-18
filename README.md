@@ -5,3 +5,16 @@ NOTE: this is currently a draft/experiment, and there are absolutely zero stabil
 ## Unanswered Questions
 
 - Do we let every texture specify a default option (ie. in its manifest file)? or do we say, there are "technically" no such thing as a default option, you just declare default in a file `presets/default.wm` (name is arbitrary and only conventional) that the user then must include in the bottom as fallback?
+
+## Some misc detauls
+
+This commit is the commit we will pin ourselves to when porting over the initial data, for consistency reason. After we're done with this initial version, we can update/backport to newer/older commits.
+
+Current target commit in L&T main repo: `336403bda586ed353e64774c63993c3ba07073c1`
+
+<!--
+The below is for checking the repo history for older versions of textures that could get added here as variants. For later!
+
+- Newest commit checked: todo
+- Oldest commit checked: todo
+-->
