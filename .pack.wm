@@ -1,4 +1,11 @@
 name: Love & Tolerance
 id: lt
 version: 0.0.0
-// todo
+
+preset-option-nd:
+	random:
+		name: Random
+		description: Randomised textures
+	static:
+		name: Static
+		description: Singular texture
