@@ -6,7 +6,7 @@ NOTE: this is currently a draft/experiment, and there are absolutely zero stabil
 
 - Do we let every texture specify a default option (ie. in its manifest file)? or do we say, there are "technically" no such thing as a default option, you just declare default in a file `presets/default.wm` (name is arbitrary and only conventional) that the user then must include in the bottom as fallback?
 
-## Some misc detauls
+## Some misc details
 
 This commit is the commit we will pin ourselves to when porting over the initial data, for consistency reason. After we're done with this initial version, we can update/backport to newer/older commits.
 
