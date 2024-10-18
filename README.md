@@ -10,7 +10,7 @@ NOTE: this is currently a draft/experiment, and there are absolutely zero stabil
 
 This commit is the commit we will pin ourselves to when porting over the initial data, for consistency reason. After we're done with this initial version, we can update/backport to newer/older commits.
 
-Current target commit in L&T main repo: `336403bda586ed353e64774c63993c3ba07073c1`
+Current target commit in L&T main repo: `3cc361aeb777d11847c20ed5629fb909f55f1ca9`
 
 <!--
 The below is for checking the repo history for older versions of textures that could get added here as variants. For later!
