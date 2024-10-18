@@ -1,0 +1,6 @@
+type: random-cube-all
+block-id: minecraft:stone
+y:
+-	0
+-	180
+mirror: true
