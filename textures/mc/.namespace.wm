@@ -1,0 +1,3 @@
+flatten-children: true
+// todo: or we could have these in ns subdirs, `flatten-with-parent`?
+// if we did keep this, we should add that option for the ability to override in child dirs
