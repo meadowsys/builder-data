@@ -1,0 +1,9 @@
+[option]
+name = "Random"
+
+[[provider]]
+id = "provider"
+type = "cube-all"
+block-id = "minecraft:stone"
+y = [0, 180]
+mirror = true

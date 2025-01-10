@@ -1,0 +1,7 @@
+[option]
+name = "Static"
+
+[[provider]]
+id = "provider"
+type = "cube-all"
+block-id = "minecraft:stone"

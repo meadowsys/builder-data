@@ -1,6 +1,0 @@
-name: default
-description: Default pack configuration for Love & Tolerance
-
-defaults:
-	stone: random
-	// todo: ??

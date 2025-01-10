@@ -1,0 +1,6 @@
+name = "L&T Default"
+description = "Default pack configuration for Love & Tolerance"
+
+[defaults]
+cobblestone = "random"
+stone = "random"
