@@ -2,5 +2,6 @@ name = "L&T Default"
 description = "Default pack configuration for Love & Tolerance"
 
 [defaults]
+beehive = "static"
 cobblestone = "random"
 stone = "random"
