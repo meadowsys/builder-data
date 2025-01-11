@@ -1,0 +1,7 @@
+[option]
+name = "Static"
+
+[[provider]]
+id = "provider"
+type = "orientable-with-bottom"
+rotations = true
