@@ -5,7 +5,7 @@ name = "Static"
 id = "provider"
 type = "orientable-with-bottom"
 block-id = "minecraft:beehive"
-rotations = true
 blockstates = [
+	{ preset = "rotations" },
 	{ key = "honey-level", values = [0, 1, 2, 3, 4, 5] }
 ]
