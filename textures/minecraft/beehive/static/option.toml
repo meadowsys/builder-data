@@ -4,4 +4,8 @@ name = "Static"
 [[provider]]
 id = "provider"
 type = "orientable-with-bottom"
+block-id = "minecraft:beehive"
 rotations = true
+blockstates = [
+	{ key = "honey-level", values = [0, 1, 2, 3, 4, 5] }
+]
