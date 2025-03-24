@@ -1,0 +1,8 @@
+[option]
+name = "Random"
+
+[[provider]]
+id = "provider"
+type = "wiwi:cube-all"
+y = [0, 180]
+mirror = true
